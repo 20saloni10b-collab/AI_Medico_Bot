@@ -6,7 +6,7 @@ Embedding Model Manager
 Supports multiple HuggingFace
 Sentence Transformer models.
 
-Author : Himanshu Rajak
+Author : Saloni
 Project : AI Medico Bot
 """
 
